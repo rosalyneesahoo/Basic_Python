@@ -79,5 +79,4 @@ def main():
             print("Thank you for using the calculator!")
             break
 
-if __name__ == "__main__":
-    main()
+main()
